@@ -1,0 +1,38 @@
+_repo: La-maison-en-ordre-b-comment-un-revolutionnaire-devint-royaliste_73168
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Retté, Adolphe
+    alias: Rette, Adolphe
+    birthdate: 1863
+    deathdate: 1930
+    gutenberg_agent_id: '6973'
+    url: http://www.gutenberg.org/2009/agents/6973
+    wikipedia: https://fr.wikipedia.org/wiki/Adolphe_Rett%C3%A9
+description: ''
+gutenberg_issued: '2024-03-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73168'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k108228q
+pgterms:marc905: 20240313140932rett
+pgterms:marc906: '1923'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This file was produced from images generously made
+  available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: '  $aParis :$bNouvelle librairie nationale, $c1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Catholic converts'
+- !lcsh 'Retté, Adolphe, 1863-1930'
+- !lcc 'BX'
+- !lcc 'PQ'
+- GITenberg
+tableOfContents: Impressions d'enfance -- La guerre de 1870 -- Au collège -- Temps
+  perdu -- Au régiment -- Le symbolisme -- L'anarchie -- Chez Clemenceau -- Le Sillon
+  -- Les libéraux -- Charles Maurras -- Dieu et le Roi.
+title: 'La maison en ordre : $b comment un révolutionnaire devint royaliste'
+url: http://www.gutenberg.org/ebooks/73168
